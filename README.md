@@ -7,7 +7,7 @@
 ## 🧑‍💻 Entrega Individual
 Cada aluno deve entregar seu **próprio projeto**.
 
-📎 Link da turma no Classroom: [Acessar turma](https://classroom.github.com/a/tJl0o_ON)
+📎 Link da turma no Classroom: [Acessar turma](https://classroom.github.com/a/zuhEA6gC)
 
 ---
 
